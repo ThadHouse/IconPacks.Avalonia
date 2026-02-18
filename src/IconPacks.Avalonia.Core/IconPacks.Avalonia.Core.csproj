@@ -8,7 +8,6 @@
     <ItemGroup>
         <PackageReference Include="Avalonia" />
         <PackageReference Include="JetBrains.Annotations" PrivateAssets="All" IncludeAssets="build;compile" />
-        <PackageReference Include="System.Text.Json" />
     </ItemGroup>
 
 </Project>

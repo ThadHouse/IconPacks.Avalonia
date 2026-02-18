@@ -1,5 +1,5 @@
 ﻿using System;
-using Avalonia.Markup.Xaml;
+using Avalonia.Metadata;
 using Avalonia.Media;
 using IconPacks.Avalonia.Core;
 

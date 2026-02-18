@@ -1,5 +1,6 @@
 ﻿using System;
 using Avalonia.Markup.Xaml;
+using Avalonia.Metadata;
 using IconPacks.Avalonia.Core;
 
 namespace IconPacks.Avalonia.Entypo
